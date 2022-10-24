@@ -1,9 +1,7 @@
 // Written by Animesh Maity
 /*-----Date- 9th August 2022
--------Due date of submission- 13th August 2022
 */
 // Student Management System
-// Add,Update,read -> Array
 
 #include <stdio.h>
 #include <stdlib.h>
